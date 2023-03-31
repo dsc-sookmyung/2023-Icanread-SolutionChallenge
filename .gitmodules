@@ -1,0 +1,9 @@
+[submodule "Flutter"]
+	path = Flutter
+	url = https://github.com/I-can-read/Flutter.git
+[submodule "Server"]
+	path = Server
+	url = https://github.com/I-can-read/Server.git
+[submodule "ML"]
+	path = ML
+	url = https://github.com/I-can-read/ML.git
