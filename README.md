@@ -10,7 +10,7 @@ According to the National Institute of the Korean Language, the frequency of for
 
 However, since foreign words are already deeply rooted in our daily lives, there is no way to stop their use. In this situation, the discomfort of the elderly is inevitable.
 
-![image](https://user-images.githubusercontent.com/61882016/229158868-c0751d89-771e-4224-8417-39d416f54614.png)
+<p align="center"><img src="https://user-images.githubusercontent.com/61882016/229158868-c0751d89-771e-4224-8417-39d416f54614.png" width="80%"></p>
 _A Korean cafe where the entire menu is written in a foreign language._
 
 **In particular, cafes, where most of the terms used are foreign words, cause significant difficulties for the elderly when ordering**. In Korea, cafes are not just places to drink coffee; they play an important social role as a space for meeting and communication. If people cannot even order in a space that everyone should be able to use freely, they will feel excluded.
@@ -67,9 +67,9 @@ Users can select their preferences such as coffee or non-coffee, and the applica
 
 <p align="center"><img src="https://user-images.githubusercontent.com/61882016/229159904-c0ebac2d-3aa8-4a2b-9fe0-c8a5edfcc401.png" width="90%"></p>
 
+<br />
 
 ## **📺 Preview I can read**
-
 ![solution1](https://user-images.githubusercontent.com/61882016/229186242-53f6e5f8-ad5c-4c07-90cb-ad570933611a.gif)
 ![solution2](https://user-images.githubusercontent.com/61882016/229187344-3fbfc563-dac1-433e-83db-90be36eaf7c0.gif)
 
