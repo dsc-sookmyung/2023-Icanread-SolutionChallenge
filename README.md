@@ -1,6 +1,6 @@
 ![thumbnail_icanread](https://user-images.githubusercontent.com/61882016/229158964-85703447-31de-4695-94b9-f8fb2c43782f.png)
 
-## ☕ **Introduction**
+## ☕ **Introduction**
 
 **`I can read`** is a menu translation service explaining foreign words for the elderly.
 
@@ -23,10 +23,11 @@ The most fundamental solution is to reduce the use of foreign words in daily lif
 
 <p align="center"><img src="https://user-images.githubusercontent.com/74898231/229202896-4e537d5d-78cc-48dc-9fb9-e57ccdd3ac4b.png" width="40%"></p>
 
-First, ease communication constraints caused by the digital information gap.
-Second, resolve elderly exclusion and inequality caused by the inability to communicate properly as social members. 
-Finally, solve the generation gap problem by sharing similar experiences.
 
+First, ease communication constraints caused by the digital information gap. </br>
+Second, resolve elderly exclusion and inequality caused by the inability to communicate properly as social members. </br>
+Finally, solve the generation gap problem by sharing similar experiences.
+  
 We aim to address the 10th goal of UN SDGs, "Reducing inequality within and among countries”. And particularly focused on the second sub-goal which is "Promote universal social, economic, and political inclusion".
 
 With this solution, we try to solve the problem of elderly who have difficulty understanding cafe menus because of the foreign words, and to ensure equal rights.
@@ -65,6 +66,9 @@ Users can select their preferences such as coffee or non-coffee, and the applica
 <p align="center"><img src="https://user-images.githubusercontent.com/61882016/229159863-dbac9653-23bb-4477-b620-5ef08b43fb1f.png" width="90%"></p>
 
 <p align="center"><img src="https://user-images.githubusercontent.com/61882016/229159904-c0ebac2d-3aa8-4a2b-9fe0-c8a5edfcc401.png" width="90%"></p>
+
+
+## **📺 Preview I can read**
 
 ![solution1](https://user-images.githubusercontent.com/61882016/229186242-53f6e5f8-ad5c-4c07-90cb-ad570933611a.gif)
 ![solution2](https://user-images.githubusercontent.com/61882016/229187344-3fbfc563-dac1-433e-83db-90be36eaf7c0.gif)
