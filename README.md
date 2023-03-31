@@ -27,7 +27,7 @@ The most fundamental solution is to reduce the use of foreign words in daily lif
 
 ## **🎬 Demo Video Link**
 
-[![youtube](https://user-images.githubusercontent.com/61882016/229185720-0cd0dd22-ba94-4e30-9b89-feb77406bf3c.png)]()
+[![youtube](https://user-images.githubusercontent.com/61882016/229185720-0cd0dd22-ba94-4e30-9b89-feb77406bf3c.png)](https://youtu.be/A3SwAT1Q2FM)
 
 <br />
 
@@ -36,8 +36,6 @@ The most fundamental solution is to reduce the use of foreign words in daily lif
 ### Solution 1. Providing a detailed explanation of the cafe menu
 
 The application uses an ML model to extract the text and provide explanations without requiring the user to input foreign words one by one.
-
-![solution1](https://user-images.githubusercontent.com/61882016/229186242-53f6e5f8-ad5c-4c07-90cb-ad570933611a.gif)
 
 ![s11](https://user-images.githubusercontent.com/61882016/229159011-5c2e7c11-4d59-4d00-a1b9-6b111b03a94b.png)
 
@@ -49,11 +47,12 @@ The application uses an ML model to extract the text and provide explanations wi
 
 Users can select their preferences such as coffee or non-coffee, and the application will recommend a menu for them.
 
-![solution2](https://user-images.githubusercontent.com/61882016/229187344-3fbfc563-dac1-433e-83db-90be36eaf7c0.gif)
-
 ![s21](https://user-images.githubusercontent.com/61882016/229159863-dbac9653-23bb-4477-b620-5ef08b43fb1f.png)
 
 ![s22](https://user-images.githubusercontent.com/61882016/229159904-c0ebac2d-3aa8-4a2b-9fe0-c8a5edfcc401.png)
+
+![solution1](https://user-images.githubusercontent.com/61882016/229186242-53f6e5f8-ad5c-4c07-90cb-ad570933611a.gif)
+![solution2](https://user-images.githubusercontent.com/61882016/229187344-3fbfc563-dac1-433e-83db-90be36eaf7c0.gif)
 
 <br />
 
